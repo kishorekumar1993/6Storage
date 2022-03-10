@@ -67069,7 +67069,7 @@ F.Yo.prototype={
 $0(){K.wr(this.a,!1).df(0)},
 $S:3}
 F.G1.prototype={
-T(a,b){var s=this,r=null,q=t.Ma,p=T.li(H.b([U.ajW("images/logo.png",C.hv,80,r)],q),C.bl,C.aH),o=s.p1("Discovery"),n=s.p1("Resources"),m=s.p1("Company"),l=s.p1("Login"),k=s.p1("Demo"),j=K.fB(15)
+T(a,b){var s=this,r=null,q=t.Ma,p=T.li(H.b([U.ajW("assets/images/logo.png",C.hv,80,r)],q),C.bl,C.aH),o=s.p1("Discovery"),n=s.p1("Resources"),m=s.p1("Company"),l=s.p1("Login"),k=s.p1("Demo"),j=K.fB(15)
 return new T.d7(C.Ey,T.li(H.b([p,T.li(H.b([o,n,m,l,k,M.cL(r,L.er("Try for free",r,r,r,A.eN(r,r,C.k,r,r,r,r,r,r,r,r,r,r,C.ar,r,r,!0,r,r,r,r,r,r,r,r),r,r),C.o,r,r,new S.dE(C.bX,r,r,j,r,r,C.Z),r,r,r,new V.aG(30,8,30,8),r,r,r)],q),C.bl,C.aH)],q),C.iw,C.aH),r)},
 p1(a){var s=null,r=L.er(a,s,s,s,A.eN(s,s,C.p,s,s,s,s,s,s,s,s,s,s,C.ar,s,s,!0,s,s,s,s,s,s,s,s),s,s),q=T.dJ(s,6,s),p=T.dJ(s,s,s)
 return new T.d7(C.Ew,T.mU(T.Tg(H.b([r,q,p],t.Ma),C.di,C.aH),C.iW,s,s,s,!0),s)}}
@@ -67089,7 +67089,7 @@ $.ahL().toString
 s=k.$1(C.wG)
 r=new T.ea(n)
 q=t.Ma
-l=T.aeL(M.cL(o,T.Tg(H.b([M.cL(C.V,new G.yd(new D.EG("images/download.svg",o,o,k,s,o,C.wG),o,o),C.o,o,o,o,o,o,o,o,o,o,o),M.cL(C.V,new D.tN(H.b([new M.yE(C.bR,n,C.a2,C.Op,new P.aL(C.f.aE(1e6*(r.gm(r)+8))),new T.ea(n))],t.SZ),C.eM,!0,!0,1,o),C.o,o,o,o,o,o,o,o,o,o,o),T.dJ(o,15,o),M.cL(C.V,L.er("6Storage take away your effort of storage operations with the support team",o,o,o,A.eN(o,o,C.k,o,o,o,o,o,o,o,o,12,o,C.ar,o,o,!0,o,o,o,o,o,o,o,o),C.bF,o),C.o,o,o,o,o,o,o,o,o,o,o),M.cL(C.V,L.er("24/7.see how can you benefit",o,o,o,A.eN(o,o,C.k,o,o,o,o,o,o,o,o,12,o,C.ar,o,o,!0,o,o,o,o,o,o,o,o),C.bF,o),C.o,o,o,o,o,o,o,o,o,o,o),T.dJ(o,30,o),p.mu(L.kN(C.F0,C.k),"6storage Support - we offer 24* 7 human support for all countries"),p.mu(L.kN(C.EZ,C.k),"6storage Expertise - Global product built on feedback from all countries"),p.mu(L.kN(C.F5,C.k),"6storage Features - Curated by self storage operators"),p.mu(L.kN(C.F4,C.k),"6storage Team - We do simple html yo AI ML powered decision making algorithms"),p.mu(L.kN(C.F6,C.k),"6storage Core - Management all facility management services in an centerlaized platform"),p.mu(L.kN(C.F3,C.k),"6storage Catch - No hidden charges , No obligation on free trail (No contract)"),T.dJ(o,10,o)],q),C.eF,C.aH),C.o,o,o,new S.dE(m,o,o,l,o,o,C.Z),o,o,o,o,o,o,360))
+l=T.aeL(M.cL(o,T.Tg(H.b([M.cL(C.V,new G.yd(new D.EG("assets/images/download.svg",o,o,k,s,o,C.wG),o,o),C.o,o,o,o,o,o,o,o,o,o,o),M.cL(C.V,new D.tN(H.b([new M.yE(C.bR,n,C.a2,C.Op,new P.aL(C.f.aE(1e6*(r.gm(r)+8))),new T.ea(n))],t.SZ),C.eM,!0,!0,1,o),C.o,o,o,o,o,o,o,o,o,o,o),T.dJ(o,15,o),M.cL(C.V,L.er("6Storage take away your effort of storage operations with the support team",o,o,o,A.eN(o,o,C.k,o,o,o,o,o,o,o,o,12,o,C.ar,o,o,!0,o,o,o,o,o,o,o,o),C.bF,o),C.o,o,o,o,o,o,o,o,o,o,o),M.cL(C.V,L.er("24/7.see how can you benefit",o,o,o,A.eN(o,o,C.k,o,o,o,o,o,o,o,o,12,o,C.ar,o,o,!0,o,o,o,o,o,o,o,o),C.bF,o),C.o,o,o,o,o,o,o,o,o,o,o),T.dJ(o,30,o),p.mu(L.kN(C.F0,C.k),"6storage Support - we offer 24* 7 human support for all countries"),p.mu(L.kN(C.EZ,C.k),"6storage Expertise - Global product built on feedback from all countries"),p.mu(L.kN(C.F5,C.k),"6storage Features - Curated by self storage operators"),p.mu(L.kN(C.F4,C.k),"6storage Team - We do simple html yo AI ML powered decision making algorithms"),p.mu(L.kN(C.F6,C.k),"6storage Core - Management all facility management services in an centerlaized platform"),p.mu(L.kN(C.F3,C.k),"6storage Catch - No hidden charges , No obligation on free trail (No contract)"),T.dJ(o,10,o)],q),C.eF,C.aH),C.o,o,o,new S.dE(m,o,o,l,o,o,C.Z),o,o,o,o,o,o,360))
 m=T.dJ(o,o,30)
 r=b.a4(t.w).f.a.b/6
 return T.li(H.b([l,m,new T.d7(new V.aG(0,r,0,r),M.cL(o,p.ZK(),C.o,o,o,o,o,o,o,o,o,o,320),o)],q),C.bl,C.aH)},
@@ -67128,7 +67128,7 @@ h=P.bE(0,600,0)
 h=F.Ch(C.ca,k?T.dJ(d,d,10):M.cL(d,d,C.o,d,d,d,d,d,d,d,d,d,d),h,e)
 g=P.bE(0,200,0)
 f=t.Ma
-return T.Tg(H.b([b,c,a,r,new T.d7(new V.aG(20,20,20,20),T.m8(D.pq(d,G.aiR(T.li(H.b([m,l,j,i,h,F.Ch(C.V,k?L.er("Done",d,d,d,d,d,d):M.cL(d,d,C.o,d,d,d,d,d,d,d,d,d,d),g,e)],f),C.bl,C.ix),C.DQ,new S.dE(s,d,d,q,p,d,C.Z),n,new V.aG(o,10,20,10),d),C.aE,!1,d,d,d,d,d,d,d,d,d,d,d,new F.a6T(e),d,d,d,d,d,d),d,d),d),T.dJ(d,40,d),T.li(H.b([T.aeL(Z.ajp(C.a3.h(0,300),50)),new T.d7(C.EE,L.er("Or continue with",d,d,d,d,d,d),d),T.aeL(Z.ajp(C.a3.h(0,400),50))],f),C.bl,C.aH),T.dJ(d,40,d),T.li(H.b([e.HH("images/google.png"),e.HI("images/github.png",!0),e.HH("images/facebook.png")],f),C.iw,C.aH)],f),C.di,C.aH)},
+return T.Tg(H.b([b,c,a,r,new T.d7(new V.aG(20,20,20,20),T.m8(D.pq(d,G.aiR(T.li(H.b([m,l,j,i,h,F.Ch(C.V,k?L.er("Done",d,d,d,d,d,d):M.cL(d,d,C.o,d,d,d,d,d,d,d,d,d,d),g,e)],f),C.bl,C.ix),C.DQ,new S.dE(s,d,d,q,p,d,C.Z),n,new V.aG(o,10,20,10),d),C.aE,!1,d,d,d,d,d,d,d,d,d,d,d,new F.a6T(e),d,d,d,d,d,d),d,d),d),T.dJ(d,40,d),T.li(H.b([T.aeL(Z.ajp(C.a3.h(0,300),50)),new T.d7(C.EE,L.er("Or continue with",d,d,d,d,d,d),d),T.aeL(Z.ajp(C.a3.h(0,400),50))],f),C.bl,C.aH),T.dJ(d,40,d),T.li(H.b([e.HH("assets/images/google.png"),e.HI("assets/images/github.png",!0),e.HH("assets/images/facebook.png")],f),C.iw,C.aH)],f),C.di,C.aH)},
 HI(a,b){var s,r,q=null
 if(b){s=H.b([new O.fE(10,C.a3.h(0,300),C.h,30)],t.Sx)
 s=new S.dE(C.k,q,q,K.fB(15),s,q,C.Z)}else{s=K.fB(15)
